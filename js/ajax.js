@@ -22,3 +22,8 @@ function getXMLHTTPObject() {
 	}
 }
 
+
+/**
+ * DEMO
+ */
+function demo() {}
